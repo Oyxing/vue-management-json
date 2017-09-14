@@ -4,4 +4,4 @@
 
 ## 运行方法 
   
-  npm json:server
+  npm run json:server
